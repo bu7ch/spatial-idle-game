@@ -1,4 +1,3 @@
-```markdown
 # 🚀 Idle Game Spatial (Version Rails)
 
 Bienvenue dans le dépôt de la version **Ruby on Rails** d'un jeu idle à thème spatial.  
@@ -131,4 +130,3 @@ Merci à tous les contributeurs, débutants ou confirmés, qui donnent vie à ce
 N'hésitez pas à poser des questions dans les issues ou à nous contacter.
 
 **Bon code et bon jeu !** 👨‍🚀👩‍🚀
-```
